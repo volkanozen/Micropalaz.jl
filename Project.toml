@@ -1,0 +1,7 @@
+name = "Micropalaz"
+uuid = "fabb2790-da3b-468b-bdc7-e3c53bd285b1"
+authors = ["volkan "]
+version = "0.1.0"
+
+[deps]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
